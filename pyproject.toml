@@ -1,9 +1,8 @@
-[project]
+[tool.poetry]
 name = "E commerce Project"
 version = "0.1.0"
 description = "An E-commerce website"
 authors = ["Uzoma Nwachukwu"]
-
 
 requires-python = "^3.11"
 # Add your dependencies here.
