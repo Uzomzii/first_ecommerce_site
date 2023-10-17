@@ -1,8 +1,8 @@
 [project]
 name = "E commerce Project"
 version = "0.1.0"
-description = "An E-commerce website\u000a"
-authors = [{name = "Uzoma Nwachukwu", email = "uzomaknwachukwu@gmail.com}\u000a]
+description = "An E-commerce website"
+authors = ["Uzoma Nwachukwu"]
 
 
 requires-python = "^3.11"
